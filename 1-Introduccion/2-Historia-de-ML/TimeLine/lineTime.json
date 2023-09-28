@@ -1,128 +1,145 @@
 {
 	"title": {
 		"media": {
-			"url": "https://aeac.science/actividad/newton/",
-			"caption": "Isaac Newton es uno de los más famosos contribuyentes del desarrollo del cálculo, el cual utilizó en sus leyes de movimiento y gravitación.",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/3/39/GodfreyKneller-IsaacNewton-1689.jpg",
+			"caption": "Isaac Newton es uno de los más famosos contribuyentes del desarrollo del cálculo, el cual utilizó en sus leyes de movimiento y gravitación. Isaac Newton ofreció al mundo grandes avances en física, astronomía y matemáticas.",
 			"credit": "flickr/<a href='https://upload.wikimedia.org/wikipedia/commons/3/39/GodfreyKneller-IsaacNewton-1689.jpg'>tm_10001</a>"
 		},
 		"text": {
-			"headline": "Newton centa las bases de la física y las matemáticas modernas.<br/> Siglo XVII",
-			"text": "<p>Isaac Newton ofreció al mundo grandes avances en física, astronomía y matemáticas.</p>"
+			"headline": "Isaac Newton ofreció grandes avances en física y matemáticas.<br/> Siglo XVII",
+			"text": "<p>Newton cienta las bases de la física, astronomía y matemáticas modernas.</p>"
 		}
 	},
 	"events": [
 		{
 			"media": {
-				"url": "https://s.abcnews.com/images/Entertainment/whitney-cissy-dionne-gty-er-180711_hpEmbed_21x16_992.jpg",
-				"caption": "Houston's with her mother and Gospel singer, Cissy Houston and cousin Dionne Warwick.",
-				"credit": "Cissy Houston photo:<a href='http://www.flickr.com/photos/11447043@N00/418180903/'>Tom Marcello</a><br/><a href='http://commons.wikimedia.org/wiki/File%3ADionne_Warwick_television_special_1969.JPG'>Dionne Warwick: CBS Television via Wikimedia Commons</a>"
+				"url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Youngronaldfisher2.JPG",
+				"caption": "Ronald Fisher, estadístico y biólogo que usó la matemática para combinar las leyes de Mendel ",
+				"credit": "Wikimedia:<a href='https://es.wikipedia.org/wiki/M%C3%A1xima_verosimilitud'></a><br/><a href='https://es.wikipedia.org/wiki/M%C3%A1xima_verosimilitud'> Ronald Fisher en 1913/a>"
 			},
 			"start_date": {
-				"month": "8",
-				"day": "9",
-				"year": "1963"
+				"month": "",
+				"day": "",
+				"year": "1920"
 			},
 			"text": {
-				"headline": "A Musical Heritage",
-				"text": "<p>Born in New Jersey on August 9th, 1963, Houston grew up surrounded by the music business. Her mother is gospel singer Cissy Houston and her cousins are Dee Dee and Dionne Warwick.</p>"
+				"headline": "Máxima verosimilitud<br>",
+				"text": "<p>Se introduce el concepto de estimación por máxima verosimilitud y los fundamentos de la estadística moderna por Ronald Fisher.</p>"
 			}
 		},
 		{
 			"media": {
-				"url": "https://youtu.be/fSrO91XO1Ck",
+				"url": "https://3.bp.blogspot.com/-pZsFnXxjDPs/Wt2l8Mo0v2I/AAAAAAAAFnk/0897BVMKIKEZ09F2DGq89SgDPJRVHAw4wCLcBGAs/s320/captura.jpg",
+				"caption": "David Hilbert, prolífico matemático",
+				"credit": "matematicosoriano:<a href='http://matematicosoriano.blogspot.com/2018/04/los-23-problemas-de-hilbert.html'>Tom Marcello</a><br/><a href='http://matematicosoriano.blogspot.com/2018/04/los-23-problemas-de-hilbert.html'> Alejandro Fernández Jiménez: Matemático Soriano</a>"
+			},
+			"start_date": {
+				"month": "",
+				"day": "",
+				"year": "1928"
+			},
+			"text": {
+				"headline": "LOS 23 PROBLEMAS DE HILBERT<br> 1928",
+				"text": "<p>David Hilbert formula los 23 problemas de Hilbert, que influyeron significativamente en el desarrollo de las matemáticas en el siglo XX</p>"
+			}
+		},
+		
+		{
+			"media": {
+				"url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Young_Kurt_G%C3%B6del_as_a_student_in_1925.jpg",
 				"caption": "",
-				"credit": "<a href=\"http://unidiscmusic.com\">Unidisc Music</a>"
+				"credit": "<a href=\"https://www.gaussianos.com/que-dice-exactamente-el-primer-teorema-de-incompletitud-de-godel/\">Kurt Gödel</a>"
 			},
 			"start_date": {
-				"year": "1978"
+				"year": "1931"
 			},
 			"text": {
-				"headline": "First Recording",
-				"text": "At the age of 15 Houston was featured on Michael Zager's song, Life's a Party."
+				"headline": "Los teoremas de incompletitud de Gödel, teoría de conjuntos",
+				"text": "Kurt Gödel publica su teorema de incompletitud, que tiene importantes implicaciones en la lógica matemática."
 			}
 		},
 		{
 			"media": {
-				"url": "https://youtu.be/_gvJCCZzmro",
-				"caption": "A young poised Whitney Houston in an interview with EbonyJet.",
-				"credit": "EbonyJet"
+				"url": "http://2.bp.blogspot.com/-BWHkQiJnLwQ/TdWOuwm3XwI/AAAAAAAAAEk/_Xcd34d9dIA/s400/turing.jpg",
+				"caption": "DEFINICION FORMAL DE UNA MAQUINA TURING",
+				"credit": "<a href=\"https://www.gaussianos.com/que-dice-exactamente-el-primer-teorema-de-incompletitud-de-godel/\">Alan Turing y la Máquina de Turing</a>"
 			},
 			"start_date": {
-				"year": "1978"
+				"year": "1936"
 			},
 			"text": {
-				"headline": "The Early Years",
-				"text": "As a teen Houston's credits include background vocals for Jermaine Jackson, Lou Rawls and the Neville Brothers. She also sang on Chaka Khan's, 'I'm Every Woman,' a song which she later remade for the <i>Bodyguard</i> soundtrack which is the biggest selling soundtrack of all time. It sold over 42 million copies worldwide."
+				"headline": "Se propone la Máquina de Turing, en la teoría de la computación.",
+				"text": "La Máquina de Turing (MT) fue introducida por Alan M. Turing en 1936, y puede considerarse como un modelo abstracto que formaliza la idea Intuitiva de algoritmo."
 			}
 		},
 		{
 			"media": {
-				"url": "https://youtu.be/H7_sqdkaAfo",
-				"caption": "I'm Every Women as performed by Whitney Houston.",
-				"credit": "Arista Records"
+				"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Binary-search-work.gif/220px-Binary-search-work.gif",
+				"caption": "Algoritmo de busqueda binaria",
+				"credit": "<a href=\"https://academia-lab.com/enciclopedia/algoritmo-de-busqueda-binaria/\">Algoritmo de búsqueda binaria</a>"
 			},
 			"start_date": {
-				"year": "1978"
+				"year": "1946"
 			},
 			"text": {
-				"headline": "Early Album Credits",
-				"text": "As a teen Houston's credits include background vocals for Jermaine Jackson, Lou Rawls and the Neville Brothers. She also sang on Chaka Khan's, 'I'm Every Woman,' a song which she later remade for the <i>Bodyguard</i> soundtrack which is the biggest selling soundtrack of all time. It sold over 42 million copies worldwide."
+				"headline": "Desarrollo del algoritmo de búsqueda binaria",
+				"text": "En informática, búsqueda binaria, también conocida como búsqueda de medio intervalo, búsqueda logarítmica o corte binario, es un algoritmo de búsqueda que encuentra la posición de un valor objetivo dentro de una matriz ordenada. La búsqueda binaria compara el valor objetivo con el elemento central de la matriz."
 			}
 		},
 		{
 			"media": {
-				"url": "https://youtu.be/A4jGzNm2yPI",
-				"caption": "Whitney Houston and Clive Davis discussing her discovery and her eponymous first album.",
-				"credit": "Sony Music Entertainment"
+				"url": "https://bookdown.org/aquintela/EBE/Figure/errorestipo.png",
+				"caption": "Posibles opciones en un test de hipótesis.",
+				"credit": "<a href=\"https://bookdown.org/aquintela/EBE/la-teoria-de-test-de-hipotesis-de-neyman-pearson.html\">Teoria de test de hipótesis</a>"
 			},
 			"start_date": {
-				"year": "1983"
+				"year": "1950"
 			},
 			"text": {
-				"headline": "Signed",
-				"text": "Houston is signed to Arista Records after exec Clive Davis sees her performing on stage with her mother in New York."
+				"headline": "La teoría de test de hipótesis de Neyman y Pearson",
+				"text": "El eje principal de su investigación era el siguiente interrogante: ¿qué hacer si se obtiene un resultado significativo en un test estadístico? Se rechaza la hipótesis nula, pero los test de significación no arrojaban ninguna pista sobre qué hipótesis elegir a cambio."
 			}
 		},
 		{
 			"media": {
-				"url": "https://youtu.be/m3-hY-hlhBg",
-				"caption": "The 'How Will I Know' video showcases the youthful energy that boosted Houston to stardom.",
-				"credit": "Arista Records Inc."
+				"url": "https://imagenes.20minutos.es/files/image_990_v3/uploads/imagenes/2023/06/20/alan-turing-1.jpeg",
+				"caption": "Alan Turing fue alguien clave para el desarrollo de la Inteligencia Artificial",
+				"credit": "A<a href=\"https://www.bbc.com/news/technology-18475646\">Entrenamientos de maquina por Alan Turing</a>"
 			},
 			"start_date": {
-				"year": "1985"
+				"year": "1950"
 			},
 			"text": {
-				"headline": "Debut",
-				"text": "Whitney Houston's self titled first release sold over 12 million copies in the U.S. and included the hit singles 'How Will I Know,' 'You Give Good Love,' 'Saving All My Love For You' and 'Greatest Love of All.'"
+				"headline": "Alan Turing: el experimento que dio forma a la inteligencia artificial",
+				"text": "Alan Turing propone la posibilidad de entrenar máquinas para aprender de los datos en lugar de programarlas explícitamente."
 			}
 		},
 		{
 			"media": {
-				"url": "https://youtu.be/v0XuiMX1XHg",
-				"caption": "Dionne Warwick gleefully announces cousin, Whitney Houston, the winner of the Best Female Pop Vocal Performance for the song Saving All My Love.",
-				"credit": "<a href='http://grammy.org'>The Recording Academy</a>"
+				"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Perceptr%C3%B3n_5_unidades.svg/400px-Perceptr%C3%B3n_5_unidades.svg.png",
+				"caption": "La regla de estudio de la red Perceptrón basada en la neurona MCP original propuesta.",
+				"credit": "<a href='https://ciberseguridad.com/guias/nuevas-tecnologias/machine-learning/perceptron/'>PERCEPTRON, QUÉ ES Y CÓMO SE USA EN MACHINE LEARNING</a>"
 			},
 			"start_date": {
-				"year": "1986"
+				"year": "1956"
 			},
 			"text": {
-				"headline": "'The Grammys'",
-				"text": "In 1986 Houston won her first Grammy for the song Saving All My Love. In total she has won six Grammys, the last of which she won in 1999 for It's Not Right But It's Okay."
+				"headline": "Frank Rosenblatt desarrolla el perceptrón.",
+				"text": "Un perceptrón es un algoritmo de aprendizaje de clasificación binaria supervisado. Este algoritmo permite que las neuronas aprendan elementos y los procese uno por uno durante la preparación."
 			}
 		},
 		{
 			"media": {
-				"url": "https://youtu.be/eH3giaIzONA",
-				"caption": "I Wanna Dance With Somebody",
-				"credit": "Arista Records Inc."
+				"url": "https://www.biografias.es/files/star/thumb/d/donald-michie_qs6nz.jpg",
+				"caption": "",
+				"credit": "<a href='https://www.biografias.es/famosos/donald-michie.html'>Biografía de Donald Michie</a>"
 			},
 			"start_date": {
-				"year": "1987"
+				"year": "1960"
 			},
 			"text": {
-				"headline": "'Whitney'",
-				"text": "Multiplatinum second album sells more than 20 million copies worldwide. With 'Whitney', Houston became the first female artist to produce four number 1 singles on one album including \"I Wanna Dance With Somebody,' 'Didn't We Almost Have It All,' 'So Emotional' and 'Where Do Broken Hearts Go.'"
+				"headline": "Donald Michie desarrolla 'Machine Educable Noughts and Crosses Engine'(MENACE).",
+				"text": "Donald Michie desarrolló un programa de computadora que podía aprender a jugar un juego perfecto de ceros y cruces, esto marco un gran avance de la IA "
 			}
 		},
 		{
