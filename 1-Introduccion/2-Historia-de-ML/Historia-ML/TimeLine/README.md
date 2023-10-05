@@ -22,3 +22,5 @@
 <h3><a href="https://yoel-gasca.github.io/Machine-Learning-Lesons/1-Introduccion/2-Historia-de-ML/Historia-ML/TimeLine">Linea temporal</a></h3>
 
 ![Alt text](../img/image.png)
+
+#### Esta es la evidencia que corresponde a la <a href="https://github.com/microsoft/ML-For-Beginners/blob/main/1-Introduction/2-history-of-ML/translations/assignment.es.md">tarea</a> de la lección <a href="https://github.com/microsoft/ML-For-Beginners/blob/main/1-Introduction/2-history-of-ML/translations/README.es.md">Historia del machine learning</a> del curso <a href="https://github.com/microsoft/ML-For-Beginners/tree/main"> MACHINE LEARNING FOR BEGINNERS</a> de Microsoft.
