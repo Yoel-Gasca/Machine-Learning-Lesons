@@ -2,7 +2,7 @@
 
 ## Instrucciones
 
-En esta lección, aprendió sobre Responsible AI Toolbox, un "proyecto de código abierto impulsado por la comunidad para ayudar a los científicos de datos a analizar y mejorar los sistemas de IA" [Para esta tarea, explore uno de los cuadernos](https://github.com/microsoft/responsible-ai-toolbox/blob/main/notebooks/responsibleaidashboard/getting-started.ipynb) de RAI Toolbox e informe sus hallazgos en un documento o presentación.
+En esta lección, aprendió sobre Responsible AI Toolbox, un "proyecto de código abierto impulsado por la comunidad para ayudar a los científicos de datos a analizar y mejorar los sistemas de IA" [Para esta tarea, explore uno de los cuadernos](https://github.com/microsoft/responsible-ai-toolbox/tree/main/notebooks/responsibleaidashboard/tabular) de RAI Toolbox e informe sus hallazgos en un documento o presentación.
 
 ## Rúbrica
 
