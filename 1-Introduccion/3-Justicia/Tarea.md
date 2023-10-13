@@ -4,6 +4,12 @@
 
 En esta lección, aprendió sobre Responsible AI Toolbox, un "proyecto de código abierto impulsado por la comunidad para ayudar a los científicos de datos a analizar y mejorar los sistemas de IA" [Para esta tarea, explore uno de los cuadernos](https://github.com/microsoft/responsible-ai-toolbox/tree/main/notebooks/responsibleaidashboard/tabular) de RAI Toolbox e informe sus hallazgos en un documento o presentación.
 
+### Exploración e informe
+[Se exploro la informacion de este cuaderno de RAI Toolbox](./responsibleaidashboard-diabetes-regression-model-debugging.ipynb)
+
+[Presentación de informe del cuaderno de RAI Toolbox explorado](./responsibleaidashboard-diabetes-regression-model-debugging.ipynb)
+
+
 ## Rúbrica
 
 | Criterios | Ejemplar | Adecuado | Necesita mejorar |
