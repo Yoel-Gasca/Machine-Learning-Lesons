@@ -4,6 +4,10 @@
 
 En tu compañía, en un grupo de usuarios, o entre tus amigos o compañeros de estudio, habla con alguien que trabaje profesionalmente como científico de datos. Escribe un artículo corto (500 palabras) acerca de sus ocupaciones diarias. ¿Son ellos especialistas, o trabajan como 'full stack'?
 
+<h3><a href="../../Docs/Un-Día-en-la-Vida-de-un-Científico-de-Datos.docx">Un Día en la Vida de un Científico de Datos</a></h3>
+
+El documento que esta adjunto en el enlace anterior contiene un artículo acerca de las ocupaciones y la rutina del día a día de un científico de datos.
+
 ## Rúbrica
 
 | Criterio | Ejemplar                                                                            | Adecuado                                                           | Necesita mejorar     |
