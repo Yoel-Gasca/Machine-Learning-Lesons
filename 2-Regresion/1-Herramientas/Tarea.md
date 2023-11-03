@@ -15,3 +15,5 @@ Para crear un modelo de regresión que trazara la relación entre la circunferen
 | Criterios                       | Ejemplar                           | Adecuado              | Necesita Mejorar         |
 | ------------------------------ | ----------------------------------- | ----------------------------- | -------------------------- |
 | Envíe un párrafo descriptivo | Se envía un párrafo bien escrito | Se envían algunas frases | No se proporciona ninguna descripción |
+
+#### Esta es la evidencia que corresponde a la <a href="https://github.com/microsoft/ML-For-Beginners/blob/main/2-Regression/1-Tools/translations/assignment.es.md">tarea</a> de la lección <a href="https://github.com/microsoft/ML-For-Beginners/blob/main/2-Regression/1-Tools/translations/README.es.md">Comience con Python y Scikit-learn para modelos de regresión</a> del curso <a href="https://github.com/microsoft/ML-For-Beginners/tree/main"> MACHINE LEARNING FOR BEGINNERS</a> de Microsoft.
