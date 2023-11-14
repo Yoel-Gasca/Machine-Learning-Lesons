@@ -4,6 +4,8 @@
 
 En esta lección viste cómo construir un modelo usando tanto la regresión lineal como polinomial. Usando este conocimiento, encuentra un conjunto de datos o usa uno de los conjuntos de datos incorporados de Scikit-learn, para construir un modelo nuevo. Explica en tu notebook por qué elegiste dicha técnica y demuestra la precisión de tu modelo. Si este no es preciso explica por qué.
 
+<h3><a href="./asignament.ipynb">Ejemplo de Regresión lineal y polinominal</a></h3
+
 ## Rúbrica
 
 | Criterio | Ejemplar                                                    | Adecuado                   | Necesita mejorar               |
