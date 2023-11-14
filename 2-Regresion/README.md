@@ -16,8 +16,9 @@ En este estudio se preparan para comenzar las tareas de machine learning, inclui
 
 > Existen herramientas útiles _low-code_ que pueden ayudar a aprender a trabajar con modelos de regresión. Pruebe [Azure ML para esta tarea](https://docs.microsoft.com/learn/modules/create-regression-model-azure-machine-learning-designer/?WT.mc_id=academic-77952-leestott)
 
-<h3><a href="./notebook.ipynb">Evidencia del estudio de los precios de las calabazas en Estados Unidos</a></h3>
-
+A continuacion se desglosa el desarrollo de este analisis
+<h3><a href="./2-Datos/notebook.ipynb">1. Los datos de las calabazas - conclusiones iniciales</a></h3>
+<h3><a href="./3-Linear/notebook.ipynb">2. Regresión de dos formas</a></h3>
 
 ### Créditos
 
