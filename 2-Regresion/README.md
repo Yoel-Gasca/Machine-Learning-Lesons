@@ -18,7 +18,7 @@ En este estudio se preparan para comenzar las tareas de machine learning, inclui
 
 A continuacion se desglosa el desarrollo de este analisis
 <h3><a href="./2-Datos/notebook.ipynb">1. Los datos de las calabazas - conclusiones iniciales</a></h3>
-<h3><a href="./3-Linear/notebook.ipynb">2. Regresión de dos formas</a></h3>
+<h3><a href="./3-Linear/notebook.ipynb">2. Precios de la calabaza</a></h3>
 
 ### Créditos
 
