@@ -18,7 +18,7 @@ Hay herramientas "low code" útiles que pueden ayudarte a aprender a trabajar co
 1. [Introducción a la clasificación](./1-Intro/notebook.ipynb)
 2. [Más clasificadores](./2-Clasificadores-1/notebook.ipynb)
 3. [Otros clasificadores](./3-Clasificadores-2/notebook.ipynb)
-4. [ML aplicado: construir una aplicación web](./4-ML-Aplicado/)
+4. [ML aplicado: construir una aplicación web](./4-ML-Aplicado/notebook.ipynb)
 
 ## Créditos
 
