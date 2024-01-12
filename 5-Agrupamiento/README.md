@@ -15,7 +15,7 @@ En esta serie de lecciones, descubrirás nuevas formas de analizar datos usando 
 
 > Existen herramientas low-code útiles que te pueden ayudar a trabajar con modelos de clustering. Prueba [Azure ML para esta tarea](https://docs.microsoft.com/learn/modules/create-clustering-model-azure-machine-learning-designer/?WT.mc_id=academic-77952-leestott)
 
-##  Desarrollo de los temas de Agrupamiento: Clustering
+##  Desarrollo del Proyecto de Agrupamiento: Clustering
 
 1. [Introducción al clustering](./1-%20Visualizar/notebook.ipynb)
 2. [K-Means clustering](./2-K-Means/)
