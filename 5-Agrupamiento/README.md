@@ -18,7 +18,7 @@ En esta serie de lecciones, descubrirás nuevas formas de analizar datos usando 
 ##  Desarrollo del Proyecto de Agrupamiento: Clustering
 
 1. [Introducción al clustering](./1-%20Visualizar/notebook.ipynb)
-2. [K-Means clustering](./2-K-Means/)
+2. [K-Means clustering](./2-K-Means/notebook.ipynb)
 
 ## Créditos
 
