@@ -4,6 +4,8 @@
 
 Ahora que has aprendido acerca del uso de NLTK para asignar sentimiento al texto, prueba un conjunto de datos diferente. Probablemente necesitarás hacer algo más de procesamiento de datos, por lo cual, crear un notebook y documenta tu proceso de pensamiento. ¿Qué descubriste?
 
+<h3><a href="./assignament.ipynb">Notebook: Asignación - Probando un conjunto de datos diferente</a></h3>
+
 ## Rúbrica
 
 | Criterio | Ejemplar                                                                                                         | Adecuado                                  | Necesita mejorar      |
