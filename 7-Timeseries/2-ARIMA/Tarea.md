@@ -4,6 +4,7 @@
 
 Ahora que has construido un modelo de ARIMA, construye uno nuevo con datos frescos (prueba uno de [estos conjuntos de datos de Duke](http://www2.stat.duke.edu/~mw/ts_data_sets.html)). Anota tu trabajo en un notebook, visualiza los datos y tu modelo, y prueba su precisión usando MAPE.
 
+<h3><a href="./assignament.ipynb">Notebook: Asignación - Un nuevo modelo ARIMA</a></h3>
 
 ## Rúbrica
 
