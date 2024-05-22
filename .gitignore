@@ -4,4 +4,7 @@
 6-NLP/4-Reseñas_de_Hoteles_1/Data/Hotel_Reviews.csv
 6-NLP/5-Resenas_de_Hoteles_2/Data/Hotel_Reviews_Filtered.csv
 6-NLP/5-Resenas_de_Hoteles_2/Data/Hotel_Reviews_NLP.csv
+7-Timeseries/Data/eeg-data.csv
+7-Timeseries/Data/stimulus-times.csv
+7-Timeseries/Data/subject-metadata.csv
 Colores.css
