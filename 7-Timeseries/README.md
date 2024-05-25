@@ -12,11 +12,11 @@ Nuestro enfoque regional es el uso de la electricidad en el mundo, un conjunto d
 
 Fotografía de [Peddi Sai hrithik](https://unsplash.com/@shutter_log?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) de torres eléctricas en una carretera en Rajasthan en [Unsplash](https://unsplash.com/s/photos/electric-india?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
-## Lecciones
+## Desarrollo de las lecciones
 
-1. [Introducción a la predicción de series de tiempo](../1-Introduction/README.md)
-2. [Construyendo modelos de series de tiempo con ARIMA](../2-ARIMA/README.md)
-3. [Construyendo un Regresor de Soporte Vectorial para la predicción de series de tiempo](../3-SVR/README.md)
+1. [Introducción a la predicción de series de tiempo](./1-Introduccion/notebook.ipynb)
+2. [Construyendo modelos de series de tiempo con ARIMA](./2-ARIMA/notebook.ipynb)
+3. [Construyendo un Regresor de Soporte Vectorial para la predicción de series de tiempo](./3-SVR/notebook.ipynb)
 
 ## Créditos
 
