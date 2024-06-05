@@ -40,7 +40,7 @@ Una función de recompensa , que nos diría qué tan bien lo hicimos durante cad
 La principal diferencia entre otros tipos de aprendizaje automático y RL es que en RL normalmente no sabemos si ganamos o perdemos hasta que terminamos el juego. Por lo tanto, no podemos decir si un determinado movimiento por sí solo es bueno o no: solo recibimos una recompensa al final del juego. Y nuestro objetivo es diseñar algoritmos que nos permitan entrenar un modelo en condiciones inciertas. Aprenderemos sobre un algoritmo RL llamado Q-learning .
 
 ### Desarrollo de las lecciones
-1. [Introducción al aprendizaje por refuerzo y Q-Learning](./1-QLearning/)
+1. [Introducción al aprendizaje por refuerzo y Q-Learning](./1-QLearning/notebook.ipynb)
 2. [Usando un entorno de simulación de gimnasio](./2-Gym/)
 
 ### Créditos
