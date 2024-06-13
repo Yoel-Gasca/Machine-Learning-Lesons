@@ -2,11 +2,12 @@
 
 [OpenAI Gym](http://gym.openai.com) ha sido diseñado de tal forma que todos los ambientes proveen la misma API - esto es, los mismos métodos `reset`, `step` y `render`, y las mismas abstracciones de **action space** y **observation space**. Así sería posible adaptar los mismos algoritmos de aprendizaje reforzado a diferentes ambientes con mínimos cambios al código.
 
+
 ## Un ambiente de carrito de montaña
 
 El [ambiente de carrito de montaña](https://gym.openai.com/envs/MountainCar-v0/) contiene un carrito atrapado en un valle:
 
-<img src="../images/mountaincar.png" width="300"/>
+![alt text](image.png)
 
 El objetivo es salir del valle y capturar la bandera, al hacer a cada paso una de las siguientes acciones:
 

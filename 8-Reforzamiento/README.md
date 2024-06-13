@@ -41,7 +41,7 @@ La principal diferencia entre otros tipos de aprendizaje automático y RL es que
 
 ### Desarrollo de las lecciones
 1. [Introducción al aprendizaje por refuerzo y Q-Learning](./1-QLearning/notebook.ipynb)
-2. [Usando un entorno de simulación de gimnasio](./2-Gym/)
+2. [Usando un entorno de simulación de gimnasio](./2-Gym/notebook.ipynb)
 
 ### Créditos
 "Introducción al aprendizaje por refuerzo" fue escrita con ♥️ por Dmitri Sóshnikov
