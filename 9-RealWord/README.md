@@ -2,7 +2,7 @@
 
 En esta sección del curso, presentaremos algunas aplicaciones del aprendizaje automático clásico en el mundo real. Hemos escrutinado el internet para encontrar documentos oficiales y artículos acerca de aplicaciones que han usado estas estrategias; evitando las redes neuronales, el aprendizaje profundo y la inteligencia artificial tanto como fue posible. Aprende cómo se usa el aprendizaje automático en los sistemas comerciales, las aplicaciones ecológicas, las finanzas, el arte y la cultura y más.
 
-![ajedrez](../images/chess.jpg)
+![alt text](image.png)
 
 > Foto por <a href="https://unsplash.com/@childeye?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alexis Fauvet</a> en <a href="https://unsplash.com/s/photos/artificial-intelligence?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
