@@ -8,7 +8,7 @@ En esta sección del curso, presentaremos algunas aplicaciones del aprendizaje a
   
 ## Lección
 
-1. [Aplicaciones del mundo real para el aprendizaje automático](./1-Applications/README.es.md)
+1. [Aplicaciones del mundo real para el aprendizaje automático](./1-Applications/Applications.md)
 2. [Depuración de modelos en aprendizaje automático utilizando componentes de panel de inteligencia artificial responsable](./2-Debugging-ML-Models/README.es.md)
 ## Créditos
 
