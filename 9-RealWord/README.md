@@ -6,10 +6,10 @@ En esta sección del curso, presentaremos algunas aplicaciones del aprendizaje a
 
 > Foto por <a href="https://unsplash.com/@childeye?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alexis Fauvet</a> en <a href="https://unsplash.com/s/photos/artificial-intelligence?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
-## Lección
+## Lecciónes
 
 1. [Aplicaciones del mundo real para el aprendizaje automático](./1-Applications/Applications.md)
-2. [Depuración de modelos en aprendizaje automático utilizando componentes de panel de inteligencia artificial responsable](./2-Debugging-ML-Models/README.es.md)
+2. [Depuración de modelos en aprendizaje automático utilizando componentes de panel de inteligencia artificial responsable](./2-Debugging_ML_Models/Debuggin_Models.md)
 ## Créditos
 
 "Aplicaciones del mundo real" fue escrito por un equipo de personas, incluyendo a [Jen Looper](https://twitter.com/jenlooper) y [Ornella Altunyan](https://twitter.com/ornelladotcom).
